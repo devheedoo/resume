@@ -1,6 +1,6 @@
 # 김희도의 이력서
 
-김희도의 이력서 목차입니다:
+2019년 8월 25일 업데이트한 김희도의 이력서 목차입니다:
 
 - [소개](#소개)
 - [기술](#기술)
@@ -14,6 +14,7 @@
 - 이름: 김희도
 - 이메일: devheedoo@gmail.com
 - GitHub: https://github.com/devheedoo
+- LinkedIn: https://www.linkedin.com/in/heedokim93/
 - 상태: 산업기능요원으로 대체복무 중
 
 훌륭한 산업기능요원 동료 분들을 만난 덕분에 개발 공부를 시작하게 된 주니어 개발자입니다. GitHub 저장소 탐방하기, 개발 관련 도서/블로그 읽기, 마크다운으로 글 쓰기를 좋아합니다. 매일 공부한 내용을 [TIL](https://github.com/devheedoo/TIL)에 작성하고, 다른 개발자 분들의 GitHub 저장소와 타임라인을 보며 자극을 받습니다. 장래에는 JavaScript 라이브러리를 개발하며 살고 싶습니다.
@@ -25,7 +26,7 @@
 
 ## 경력
 
-- [에이투엠](http://www.a2m.co.kr/) (2016.03 ~ 2019.08)
+- [에이투엠](http://www.a2m.co.kr/) (2016.03 ~ 현재)
 
 ## 프로젝트
 
@@ -39,9 +40,9 @@
 
 #### 배운 점
 
-- 고객사의 윈도우/리눅스 서버에 웹서버/WAS를 설치하고, Java 버전에 맞춰 소스를 빌드해서 배포하기까지 전체 과정을 진행했습니다. 웹 애플리케이션 전체 스택을 경험하고 이해한 덕분에 새로운 이슈가 발생했을 때 정확하게 원인을 파악하고 해결할 수 있게 되었습니다.
+- 고객사의 윈도우/리눅스 서버에 웹서버/WAS를 설치하고, Java 버전에 맞춰 소스를 빌드해서 배포하기까지 전체 과정을 진행했습니다. 웹 애플리케이션 전체 스택을 다뤘습니다. 새로운 이슈가 발생했을 때 정확하게 원인을 파악하고 해결할 수 있게 되었습니다.
 
-- 동시에 다수의 프로젝트를 담당하고, 고객사에서 제공가능한 개발 환경에 맞춰 개발합니다. 덕분에 단기간에 다음과 같은 도구들을 다루고, 비교할 수 있게 되었습니다:
+- 동시에 다수의 프로젝트를 담당하고, 고객사에서 제공가능한 개발 환경에 맞춰 개발합니다. 다음과 같은 도구들을 다루고, 비교할 수 있게 되었습니다:
   - Java: 1.5 ~ 1.8
   - 운영체제: RHEL(CentOS), AIX, Windows Server
   - 웹서버/WAS: Apache, WebtoB, Tomcat, Jeus, JBoss, Resin
@@ -56,7 +57,7 @@
   - 접근성 개선 및 인증마크 획득([OpenWax](https://chrome.google.com/webstore/detail/openwax/bfahpbmaknaeohgdklfbobogpdngngoe?hl=ko) 사용)
   - 다양한 브라우저와의 호환성 개선(주로 IE8)
   - 접근 속도 개선 작업([PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?hl=ko) 사용)
-  - 웹로그 분석([Google Analytics]([https://analytics.google.com](https://analytics.google.com/)) 사용)
+  - 웹로그 분석([Google Analytics](https://analytics.google.com/) 사용)
 
 #### 홈페이지 관련 프로젝트 목록
 
