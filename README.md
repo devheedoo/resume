@@ -1,6 +1,6 @@
 # 김희도의 이력서
 
-2019년 8월 28일 업데이트한 김희도의 이력서 목차입니다:
+2019년 9월 8일 업데이트한 김희도의 이력서 목차입니다:
 
 - [소개](#소개)
 - [기술](#기술)
@@ -15,7 +15,6 @@
 - 이메일: devheedoo@gmail.com
 - GitHub: https://github.com/devheedoo
 - LinkedIn: https://www.linkedin.com/in/heedokim93/
-- 상태: 산업기능요원으로 대체복무 중
 
 훌륭한 산업기능요원 동료 분들을 만난 덕분에 개발 공부를 시작하게 된 주니어 개발자입니다. GitHub 저장소 탐방하기, 개발 관련 도서/블로그 읽기, 마크다운으로 글 쓰기를 좋아합니다. 매일 공부한 내용을 [TIL](https://github.com/devheedoo/TIL)에 작성하고, 다른 개발자 분들의 GitHub 저장소와 타임라인을 보며 자극을 받습니다. 장래에는 JavaScript 라이브러리를 개발하며 살고 싶습니다.
 
@@ -26,7 +25,7 @@
 
 ## 경력
 
-- [AtwoM](http://www.a2m.co.kr/) (2016.03 ~ 현재)
+- [AtwoM](http://www.a2m.co.kr/) (2016.03 ~ 2019.09)
 
 ## 프로젝트
 
