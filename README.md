@@ -1,5 +1,7 @@
 # 김희도의 이력서
 
+<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
+
 2019년 9월 9일 업데이트한 김희도의 이력서 목차입니다:
 
 - [소개](#소개)
@@ -22,7 +24,7 @@
 ## 기술
 
 - JavaScript, JSP, Java, Spring을 이용한 웹 애플리케이션을 풀스택으로 개발할 수 있습니다.
-- Node.js, ES6, React.js, React Native를 공부하고 있습니다.
+- Node.js, ES6, React.js, React Native, MobX를 공부하고 있습니다.
 
 ## 경력
 
