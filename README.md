@@ -29,7 +29,7 @@
 
 #### 기술 스택
 
-- JavaScript, TypeScript, React Native, MobX, Node.js, Firebase, MongoDB, Git
+- JavaScript, TypeScript, React Native, MobX, Node.js, Firebase, MongoDB, Git, WebSocket, WebRTC
 
 ### 에이투엠(AtwoM)
 
@@ -46,7 +46,7 @@
 
 #### 기술 스택
 
-- Java, Spring, Apache, Tomcat, iBatis, MySQL, Oracle, SVN
+- Java, Spring, Apache, Tomcat, iBatis, MySQL, Oracle, SVN, jQuery
 
 ## 스킬
 
