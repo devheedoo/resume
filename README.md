@@ -1,6 +1,5 @@
 # 김희도의 이력서
 
-- 이름: 김희도
 - 희망 업무: 프론트엔드 개발
 - 핵심 기술 스택: React, React Native, TypeScript, MobX
 - GitHub: [https://github.com/devheedoo](https://github.com/devheedoo)
