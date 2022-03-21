@@ -1,20 +1,21 @@
 # 김희도의 이력서
 
 - 이름: 김희도
-- 희망 업무: React 또는 React Native 개발
+- 희망 업무: 프론트엔드 개발
 - 핵심 기술 스택: React, React Native, TypeScript, MobX
 - GitHub: [https://github.com/devheedoo](https://github.com/devheedoo)
 - 이메일: devheedoo@gmail.com
 
 단순히 동작하는 걸 넘어 깔끔하고 멋진 작품을 만들고 싶은 프론트엔드 개발자입니다.
-영상통화 중 플레이하는 콘텐츠를 개발하고 있으며, 유저가 긍정적인 피드백을 남길 때 큰 기쁨을 느낍니다.
-코드 리뷰를 중시하고, 애자일하게 프로젝트를 진행하는 팀에서 일하고 싶습니다.
+기획자, 디자이너, 백엔드 개발자 분들과 계속해서 의견을 주고받으며 퀄리티를 높이는 과정과
+이러한 결과로 유저로부터 긍정적인 피드백을 받을 때 큰 성취감을 얻습니다.
+코드 리뷰를 중시하고, 애자일하게 일하는 팀을 찾고 있습니다.
 
 ## 경력
 
 ### 웨이브코퍼레이션(Wave Corporation)
 
-모바일 앱 프론트엔드 개발자 | 2019년 9월 ~ 현재 재직중
+모바일 앱 프론트엔드 개발자 | 2019년 9월 ~ 2022년 2월
 
 #### 개요
 
@@ -23,13 +24,13 @@
 
 #### 진행 업무
 
-- 영상통화 중 플레이하는 게이밍 콘텐츠 개발
+- 영상통화 중 플레이하는 신규 게이밍 콘텐츠 개발: 악어이빨뽑기, 손병호게임, 오목, 방탈출, 밸런스게임 등 8개
 - 기존의 React Native + JavaScript 환경에 TypeScript 도입
-- 게이밍 콘텐츠의 로직을 서버로 분리 및 테스트 코드 작성
+- 클라이언트에 포함되어 있던 게이밍 콘텐츠 로직을 서버로 분리, 리팩토링 및 테스트 코드 작성
 
 #### 기술 스택
 
-- JavaScript, TypeScript, React Native, MobX, Node.js, Firebase, MongoDB, Git, WebSocket, WebRTC
+- JavaScript, TypeScript, React Native, MobX, Git, Node.js, Firebase, MongoDB, WebSocket, WebRTC
 
 ### 에이투엠(AtwoM)
 
@@ -41,8 +42,8 @@
 
 #### 진행 업무
 
-- 공공/연구기관 대표 홈페이지 제작 (개발자 3인 이하 규모)
-- 웹사이트 품질 개선: 웹 취약점 점검 및 조치, SSL 적용, 웹 접근성 개선, 접근 속도 개선, 웹로그 분석
+- 공공/연구기관 대표 홈페이지 제작 (보통 프로젝트 당 개발자/디자이너/프로젝트 매니저 1인 규모)
+- 웹사이트 품질 개선: 웹 취약점 개선, SSL 적용, 웹 접근성 개선, 접근 속도 개선, 웹로그 분석, 검색 엔진 최적화
 
 #### 기술 스택
 
@@ -54,12 +55,13 @@
 
 - 프로젝트 매니저, 디자이너, 서버 개발자와 애자일한 협업에 익숙합니다.
 - 한 가지 주제에 대해 메시지를 3번 이상 주고받으면 대면/비대면으로 직접 대화한 후 기록을 남깁니다.
-- 코드 리뷰의 선기능을 잘 알고, 이를 고려하여 리베이스를 통해 커밋을 관리합니다.
+- 코드 리뷰의 선기능을 잘 알고, 이를 고려하여 Git Rebase를 통해 가독성 좋은 커밋을 만듭니다.
 
 ### Web
 
 - Spring 기반의 Java 웹 애플리케이션을 풀스택으로 다뤄본 적이 있습니다.
 - 웹 취약점, 웹 표준, 웹 접근성 등을 이해하고 적용할 수 있습니다.
+- Websocket, WebRTC를 이해하고 적용할 수 있습니다.
 
 ### JavaScript
 
@@ -71,17 +73,20 @@
 ### React
 
 - 클래스형, 함수형 컴포넌트 방식에 모두 익숙합니다.
-- 라이프사이클을 고려해 데이터 로딩과 렌더링을 최적화합니다.
+- 라이프사이클을 고려해 데이터를 로딩하고, 렌더링을 최적화합니다.
 - 중복 코드를 커스텀 훅이나 고차 컴포넌트로 분리할 수 있습니다.
 
 ### React Native
 
-- React Native 동작 방식과 그 한계를 이해하고 있습니다.
+- React Native 동작 방식과 그 구조적인 한계를 이해하고 있습니다.
 - Android, iOS 스토어 배포 및 CodePush 방식을 다룰 수 있습니다.
 - 애니메이션을 사용하는 게이밍 콘텐츠를 만들 수 있습니다.
 
-## 발표/프로젝트
+## 발표
 
-- 사내 스터디 세미나 발표(2019-11-06): [React Native에 TypeScript 적용하기](https://docs.google.com/presentation/d/1Buv1qk6WbooltljdqjkjoG8Gu0hn8FMl/edit?usp=sharing&ouid=104506562216827919165&rtpof=true&sd=true)
-- 개인 프로젝트(2019-12): [React, TypeScript로 만든 빙고 게임](https://github.com/devheedoo/react-ts-bingo)
-- 사내 스터디 세미나 발표(2021-04-14): [Deno 찍먹하기](https://docs.google.com/presentation/d/1sHTwAnX9JJQ1i0aKmW1Mu7pNNGvApOe1/edit?usp=sharing&ouid=104506562216827919165&rtpof=true&sd=true)
+### WAVE Corporation 사내 스터디 세미나
+
+- 2019-11-06, React Native에 TypeScript 적용하기: [Google Presentation](https://docs.google.com/presentation/d/1Buv1qk6WbooltljdqjkjoG8Gu0hn8FMl/edit?usp=sharing&ouid=104506562216827919165&rtpof=true&sd=true)
+- 2020-02-12, Introduction to Gatsby: [Slides](https://slides.com/devheedoo/introduction-to-gatsby)
+- 2020-05-22, 코어 자바스크립트: [Google Presentation](https://docs.google.com/presentation/d/1BQRP_C7yOTf3-O4pKewsQgF6vRa1LvMEJEGrb0hh4XE/edit?usp=sharing)
+- 2021-04-14, Deno 찍먹하기: [Google Presentation](https://docs.google.com/presentation/d/1sHTwAnX9JJQ1i0aKmW1Mu7pNNGvApOe1/edit?usp=sharing&ouid=104506562216827919165&rtpof=true&sd=true)
