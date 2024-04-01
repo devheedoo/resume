@@ -20,6 +20,15 @@
 
 - 판례 검색 서비스 개발
 
+#### 진행업무
+
+- Angular로 작성된 판례 검색 서비스를 React로 전환 및 개선
+- D3.js를 활용한 판례 분석 서비스 개발
+
+#### 기술스택
+
+- TypeScript, Angular, React, Next.js, React Query, Tailwind CSS, D3.js, Git
+
 ### 어니스트펀드(HonestFund)
 
 웹 프론트엔드 개발자 | 2022년 3월 ~ 2022년 10월
